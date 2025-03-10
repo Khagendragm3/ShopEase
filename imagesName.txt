@@ -1,0 +1,16 @@
+hero-image.jpg
+category-placeholder.jpg
+product-placeholder.jpg
+testimonial-1.jpg
+testimonial-2.jpg
+testimonial-3.jpg
+blog-1.jpg
+blog-2.jpg
+blog-3.jpg
+brand-1.png
+brand-2.png
+brand-3.png
+brand-4.png
+brand-5.png
+favicon.ico
+https://images.unsplash.com/photo-1739643247007-044e2623ca98?q=80&w=1529&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 
